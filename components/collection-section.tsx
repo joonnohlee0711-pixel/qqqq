@@ -11,7 +11,7 @@ export function CollectionSection() {
             <div className="aspect-[4/5] relative">
               <Image
                 src="/images/collection.jpg"
-                alt="MAISON 2024 ì»¬ë ‰??
+                alt="Spring Summer 2026 Collection"
                 fill
                 className="object-cover"
               />
@@ -24,26 +24,24 @@ export function CollectionSection() {
               New Collection
             </p>
             <h2 className="font-serif text-4xl md:text-5xl lg:text-6xl font-medium text-primary-foreground leading-tight mb-8">
-              2024 S/S
+              Spring/Summer 2026
               <br />
               Collection
             </h2>
             <p className="text-primary-foreground/80 leading-relaxed mb-8">
-              ?ì—°?ì„œ ?ê°??ë°›ì? 2024 ë´??¬ë¦„ ì»¬ë ‰?˜ì? 
-              ? ê¸°?ì¸ ?¤ë£¨?£ê³¼ ?ì—°?¤ëŸ¬???ìŠ¤ì²˜ë? ?µí•´ 
-              ?¸ì•ˆ?˜ë©´?œë„ ?¸ë ¨???¤í??¼ì„ ?œì•ˆ?©ë‹ˆ??
+              Discover our latest Spring/Summer 2026 collection, inspired by nature and modern elegance. 
+              Each piece is carefully crafted to bring timeless style and comfort to your wardrobe.
             </p>
             <p className="text-primary-foreground/80 leading-relaxed mb-12">
-              ì§€??ê°€?¥í•œ ?Œì¬?€ ?œë?ë¥?ì´ˆì›”?˜ëŠ” ?”ì?¸ì´ ë§Œë‚˜ 
-              ?˜ê²½ê³??¤í???ëª¨ë‘ë¥??ê°?˜ëŠ” ?ˆë¡œ???¨ì…˜??ê¸°ì???
-              ?œì‹œ?©ë‹ˆ??
+              From sustainable materials to contemporary designs, our new collection offers 
+              sophisticated pieces that celebrate both heritage and innovation.
             </p>
 
-            <a 
-              href="/collection" 
+            <a
+              href="/collection"
               className="group inline-flex items-center gap-3 text-sm tracking-widest uppercase text-primary-foreground border border-primary-foreground/50 px-8 py-4 hover:bg-primary-foreground hover:text-foreground transition-all"
             >
-              ì»¬ë ‰???˜ëŸ¬ë³´ê¸°
+              View Collection
               <ArrowRight className="h-4 w-4 group-hover:translate-x-1 transition-transform" />
             </a>
           </div>
