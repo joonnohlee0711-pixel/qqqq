@@ -8,6 +8,7 @@ import { CTASection } from "@/components/cta-section"
 import { Footer } from "@/components/footer"
 
 export default function Home() {
+  console.log("[v0] Home component rendering")
   return (
     <main>
       <Header />
